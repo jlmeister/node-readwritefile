@@ -1,0 +1,20 @@
+{
+  "name": "readwritefile",
+  "version": "1.0.0",
+  "description": "Write a node program that will read a file and print the contents to the screen. Write a node program that will take user input from a question and save the input into a file. Create that file new.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node readFile.js && node writeFile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlmeister/node-readwritefile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlmeister/node-readwritefile/issues"
+  },
+  "homepage": "https://github.com/jlmeister/node-readwritefile#readme"
+}
